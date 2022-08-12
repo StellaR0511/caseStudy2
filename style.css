@@ -1,0 +1,69 @@
+.mini_result{
+    float:center;
+    background-color: #F1AC88FF;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.mini_result h4{
+    font-size: 30px;
+}
+.test_image_and_result{
+    border-radius: 25px;
+    background-color: #fc766aff;
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding-top:10px;
+    padding-left: 40px;
+    margin-left: -1%;
+}
+body{
+    background-color: #F1AC88FF;
+    color:#783937ff;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 20px;
+}
+.dosis{
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+}
+
+.rokkitt{
+    font-family: 'Rokkitt', serif;
+    font-size: 25px;
+}
+
+h5{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 18px;
+}
+
+.img-responsive{
+    border-radius: 25px;
+    border:ridge #783937ff 10px;
+    box-shadow: 5px 5px 5px #783937ff;
+}
+.title{
+    height:50px;
+    margin-top: 50;
+}
+.mobile{
+    font-family: 'Azeret Mono', monospace;
+    color: #333;  
+}
+span{
+    font-size: 40px;
+}
+.correct{
+    color: #7cfc00 !important;
+}
+.wrong{
+    color:#FF160C !important;
+}
+#largefont{
+    font-size: 30px;
+}
+#mobilefont{
+    font-size: 35px;
+}
